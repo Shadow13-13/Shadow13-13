@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Chiagozie
 
-<!--
-**Shadow13-13/Shadow13-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a developer and 3D artist focused on look development, architectural visualization, and programming. I build clean code and create high-quality visuals that bring ideas to life.
 
-Here are some ideas to get you started:
+> "Skin in the game."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Look Development  
+- Architectural Visualization  
+- 3D Art  
+- Programming  
+- Blender  
+- Unreal Engine  
+
+## Contact Me
+- X: [@Chiagozie_4](https://x.com/Chiagozie_4)  
+- Email: [anekwechiagozie4@gmail.com, richdortcom@yahoo.com]
+
+---
+
+Thanks for visiting my profile.
